@@ -1,5 +1,3 @@
-# 65.YOUTUBE VİDEO YÜKLƏYİCİ
-
 import pytube
 
 url = input("enter video url: ")
